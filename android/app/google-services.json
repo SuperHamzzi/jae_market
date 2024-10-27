@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "292364051513",
+    "project_id": "jaehyeok-20871",
+    "storage_bucket": "jaehyeok-20871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292364051513:android:c3fc9242c338f3806619e8",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292364051513-t11kt0u1r6531buufcrkmgceioetao6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLRIW99TG8Q4shSf7mtC2ir6VX1JCD7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292364051513-t11kt0u1r6531buufcrkmgceioetao6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292364051513-j7941gq1gek5k1864esgnopntkfthd2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jaeMarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292364051513:android:5370d4cf98b970726619e8",
+        "android_client_info": {
+          "package_name": "com.example.jae_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292364051513-t11kt0u1r6531buufcrkmgceioetao6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLRIW99TG8Q4shSf7mtC2ir6VX1JCD7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292364051513-t11kt0u1r6531buufcrkmgceioetao6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292364051513-j7941gq1gek5k1864esgnopntkfthd2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jaeMarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
